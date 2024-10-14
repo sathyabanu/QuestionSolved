@@ -1,0 +1,14 @@
+C:\Users\empur\source\repos\ques_11\bin\Debug\net8.0\ques_11.exe
+C:\Users\empur\source\repos\ques_11\bin\Debug\net8.0\ques_11.deps.json
+C:\Users\empur\source\repos\ques_11\bin\Debug\net8.0\ques_11.runtimeconfig.json
+C:\Users\empur\source\repos\ques_11\bin\Debug\net8.0\ques_11.dll
+C:\Users\empur\source\repos\ques_11\bin\Debug\net8.0\ques_11.pdb
+C:\Users\empur\source\repos\ques_11\obj\Debug\net8.0\ques_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\empur\source\repos\ques_11\obj\Debug\net8.0\ques_11.AssemblyInfoInputs.cache
+C:\Users\empur\source\repos\ques_11\obj\Debug\net8.0\ques_11.AssemblyInfo.cs
+C:\Users\empur\source\repos\ques_11\obj\Debug\net8.0\ques_11.csproj.CoreCompileInputs.cache
+C:\Users\empur\source\repos\ques_11\obj\Debug\net8.0\ques_11.dll
+C:\Users\empur\source\repos\ques_11\obj\Debug\net8.0\refint\ques_11.dll
+C:\Users\empur\source\repos\ques_11\obj\Debug\net8.0\ques_11.pdb
+C:\Users\empur\source\repos\ques_11\obj\Debug\net8.0\ques_11.genruntimeconfig.cache
+C:\Users\empur\source\repos\ques_11\obj\Debug\net8.0\ref\ques_11.dll

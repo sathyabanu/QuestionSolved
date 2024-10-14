@@ -1,0 +1,14 @@
+C:\Users\empur\source\repos\Question_25\bin\Debug\net8.0\Question_25.exe
+C:\Users\empur\source\repos\Question_25\bin\Debug\net8.0\Question_25.deps.json
+C:\Users\empur\source\repos\Question_25\bin\Debug\net8.0\Question_25.runtimeconfig.json
+C:\Users\empur\source\repos\Question_25\bin\Debug\net8.0\Question_25.dll
+C:\Users\empur\source\repos\Question_25\bin\Debug\net8.0\Question_25.pdb
+C:\Users\empur\source\repos\Question_25\obj\Debug\net8.0\Question_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\empur\source\repos\Question_25\obj\Debug\net8.0\Question_25.AssemblyInfoInputs.cache
+C:\Users\empur\source\repos\Question_25\obj\Debug\net8.0\Question_25.AssemblyInfo.cs
+C:\Users\empur\source\repos\Question_25\obj\Debug\net8.0\Question_25.csproj.CoreCompileInputs.cache
+C:\Users\empur\source\repos\Question_25\obj\Debug\net8.0\Question_25.dll
+C:\Users\empur\source\repos\Question_25\obj\Debug\net8.0\refint\Question_25.dll
+C:\Users\empur\source\repos\Question_25\obj\Debug\net8.0\Question_25.pdb
+C:\Users\empur\source\repos\Question_25\obj\Debug\net8.0\Question_25.genruntimeconfig.cache
+C:\Users\empur\source\repos\Question_25\obj\Debug\net8.0\ref\Question_25.dll
